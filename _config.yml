@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "SUES3226"
-  avatar           : "profile.png"
-  bio              : "主要研究方向：材料连接及物理冶金；激光焊接及表面熔覆；碳化钨晶粒长大控制；滑移位错机理；焊接自动化及智能化；移动机器人"
+  avatar           : "sues.png"
+  bio              : "主要研究方向：激光焊接及表面熔覆；碳化钨晶粒长大控制；机器视觉；智能感知；焊接自动化及智能化；移动机器人"
   location         : "ShangHai"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=070Vcl0AAAAJ"
