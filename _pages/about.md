@@ -12,3 +12,4 @@ redirect_from:
 在Weld J、JMPT、Appl Surf Sci、J Alloy Compd、《光学学报》、《计算机与应用》、《上海交通大学学报》、《机械工程学报》等期刊发表论文150余篇，申请发明专利20余项，获2018年度美国焊接学会Mckay Helm奖、2023年上海市优秀发明选拔赛银奖。  
 学术兼职：中国机械工程学会焊接学会青年委员会委员(2018-今)；上海焊接学会理事；上海焊接协会理事；美国科促会AAAS会员、美国焊接学会AWS会员。
 
+![fig1](https://github.com/SUES3226/SUES3226.github.io/assets/137145886/d37eb151-c01b-4ed6-a7ab-dffa175fdebc)
